@@ -1,0 +1,963 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* ПИШЕМО СТИЛІ ДЛЯ H E A D E R */
+
+header{
+	width: 1920px;
+	height: 1060px;
+	background-image: url("../img/bg-head.png");
+	background-size: 1920px 1060px;
+}
+
+.header{
+	width: 1920px;
+	height: 1060px;
+	background-image: url("../img/bg-head-2.png");
+	background-size: 1920px 1060px;
+}
+
+.headerbutton{
+	width: 1920px;
+	height: 150px;
+}
+
+#logo{
+	float: left;
+	margin-top: 65px;
+	margin-left: 250px;
+}
+
+#home:hover{
+	background-color: #ff4b5a;
+}
+
+#studio:hover{
+	background-color: #ff4b5a;
+}
+
+#works:hover{
+	background-color: #ff4b5a;
+}
+
+#aboutme:hover{
+	background-color: #ff4b5a;
+}
+
+#blog:hover{
+	background-color: #ff4b5a;
+}
+
+#contact:hover{
+	background-color: #ff4b5a;
+}
+
+#home:active{
+	background-color: #1fab5a;
+}
+
+#studio:active{
+	background-color: #1fab5a;
+}
+
+#works:active{
+	background-color: #1fab5a;
+}
+
+#aboutme:active{
+	background-color: #1fab5a;
+}
+
+#blog:active{
+	background-color: #1fab5a;
+}
+
+#contact:active{
+	background-color: #1fab5a;
+}
+
+#home{
+	float: left;
+	margin-left: 330px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#studio{
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#works{
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#aboutme{
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#blog{
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+#contact{
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	color: white;
+	font-size: 22px;
+	font-family: arial;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.iphonephoto{
+	width: 400px; 
+	height: 765px;
+	margin-top: 80px;
+	margin-left: 320px;
+	float: left;
+	text-align: center;
+}
+
+.flatandmodern{
+	width: 700px;
+	height: 765px;
+	margin-left: 150px;
+	float: left;
+	margin-top: 220px;
+}
+
+
+#flat{
+	font-size: 45px;
+	font-family: gotham;
+	color: white;
+}
+
+#flatinspired{
+	color: white;
+	margin-top: 30px;
+	font-size: 26px;
+}
+
+#psd16{
+	color: white;
+	margin-top: 70px;
+	font-size: 26px;
+	
+}
+
+#allfont{
+	color: white;
+	margin-top: 30px;
+	font-size: 26px;
+}
+
+#getnow{
+	color: white;
+	float: left;
+	margin-top: 80px;
+	font-size: 45px;
+}
+
+#copyjust{
+	color: white;
+	float: left;
+	margin-top: 80px;
+	font-size: 45px;
+	margin-left: 10px;
+}
+
+#dollar7{
+	color: white;
+	margin-top: 80px;
+	color: #29af61;
+	font-size: 45px;
+	margin-left: 10px;
+	float: left;
+}
+
+/* ПИШЕМО СТИЛІ ДЛЯ H E A D E R */
+
+/* ПИШЕМО СТИЛІ ДО I M A C */
+
+.imac{
+	width: 1920px;
+	height: 820px;
+	background-color: white;
+	border-bottom: 1px solid gray;
+}
+
+.webandmobilephoto{
+	width: 960px; 
+	height: 820px;
+	float: left;
+}
+
+.webandmobiletext{
+	width: 960px; 
+	height: 820px;
+	float: left;
+}
+
+#imac{
+    margin-left: 150px;
+	margin-top: 199px;
+}
+
+#web{
+	margin-top: 225px;
+	margin-left: 150px;
+	font-size: 45px;
+	font-weight: bold;
+	font-family: gotham;
+	color: #444e5d;
+
+}
+
+#simple{
+	margin-top: 50px;
+	margin-left: 100px;
+	font-family: gotham;
+	font-size: 25px;
+	color: #ff4b5a;
+}
+
+#onemorning{
+	color: #4d5866;
+	margin-top: 30px;
+	margin-left: 100px;
+	font-family: gotham;
+	font-size: 25px;
+}
+
+#readmore{
+	width: 195px;
+	height: 65px;
+	background-color: #ff4b5a;
+	border-color: #ff4b5a;
+	border-radius: 3px;
+	margin-top: 35px;
+	margin-left: 100px;
+	font-size: 23px;
+	color: white;
+}
+
+/* ПИШЕМО СТИЛІ ДО I M A C */
+
+/* ПИШЕМО СТИЛІ ДО P R O M O T I O N A L */
+
+.promotional{
+	width: 1920px; 
+	height: 690px;
+	background-color: white;
+	border-bottom: 100px solid #38404a;
+}
+
+.videopromotional{
+	width: 960px;
+	height: 690px;
+	float: left;
+}
+
+.videoplace{
+	width: 960px;
+	height: 690px;
+	float: left;
+}
+
+#movieplace{
+	margin-left: 100px;
+}
+
+#videopromotional{
+	margin-left: 240px;
+	margin-top: 40px;
+	font-size: 45px;
+	font-weight: bold;
+	font-family: gotham;
+	color: #444e5d;
+}
+
+#simplepromotional{
+	margin-left: 250px;
+	margin-top: 50px;
+	font-family: gotham;
+	font-size: 25px;
+	color: #1fab5a;
+}
+
+#onemorningpromotional{
+	margin-left: 250px;
+	margin-top: 30px;
+	font-family: gotham;
+	font-size: 25px;
+	color: #4d5866;
+}
+
+#moredetail{
+	width: 195px;
+	height: 65px;
+	background-color: #1fab5a;
+	border-color: #1fab5a;
+	border-radius: 3px;
+	margin-top: 35px;
+	margin-left: 250px;
+	font-size: 23px;
+	color: white;
+}
+
+/* ПИШЕМО СТИЛІ ДО P R O M O T I O N A L*/
+
+/* ПИШЕМО СТИЛІ ДО F R A N K */
+
+.frank{
+	width: 1920px;
+	height: 663px;
+	background-color: #edebeb;
+	border-top: 2px solid gray;
+}
+
+#bracket{
+	margin-top: 40px;
+	margin-left: 930px;
+}
+
+#gooddesign{
+	text-align: center;
+	color: #746f6f;
+	font-size: 46px;
+	margin-top: 80px;
+	margin-left: 420px;
+	margin-right: 420px;
+}
+
+#frankphoto{
+	margin-top: 90px;
+	margin-left: 670px;
+	float: left;
+	color: #746f6f;
+	font-size: 46px;
+}
+
+#frankchimero{
+	margin-left: 880px;
+	margin-top: 120px;
+	color: #746f6f;
+	font-size: 44px;
+}
+
+#professionaldesigner{
+	margin-left: 920px;
+	margin-top: 25px;
+	color: #746f6f;
+	font-size: 34px;
+}
+
+/* ПИШЕМО СТИЛІ ДО F R A N K */
+
+/* ПИШЕМО СТИЛІ ДО M O B I L E D E S C R I P T I O N */
+
+.mobiledescription{
+	width: 1920px;
+	height: 1250px;
+	background-color: #f2f2f2;
+}	
+
+.description{
+	width: 960px;
+	height: 1250px;
+	float: left;
+}
+
+#flatandmodern2{
+	font-size: 45px;
+	font-family: gotham;
+	font-weight: bold;
+	margin-top: 160px;
+	margin-left: 250px;
+	color: #323a45;
+}
+
+.mobiletext{
+	font-size: 26px;
+	font-family: gotham;
+	margin-top: 30px;
+	margin-left: 250px;
+	color: #4c5662;
+}
+
+.description hr{
+	margin-top: 60px;
+	margin-left: 250px;
+	margin-right: 110px;
+	margin-bottom: 40px;
+	color: #4c5662;
+}
+
+.description img{
+	margin-top: 25px;
+	margin-left: 250px;
+	margin-right: 15px;
+}
+
+#descriptionp{
+	font-size: 26px;
+	font-family: gotham;
+	color: #4c5662;
+}
+
+#getnow2{
+	color: #323a45;
+	float: left;
+	margin-top: 80px;
+	font-size: 45px;
+	margin-left: 250px;
+}
+
+#copyjust2{
+	color: #323a45;
+	float: left;
+	margin-top: 80px;
+	font-size: 45px;
+	margin-left: 10px;
+}
+
+#dollar{
+	color: #323a45;
+	margin-top: 80px;
+	font-size: 45px;
+	margin-left: 10px;
+	float: left;
+}
+
+#downloadnow{
+	margin-left: 250px;
+	width: 300px;
+	height: 90px;
+	margin-top: 40px;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: gotham;
+	color: white;
+	background-color: #1fab5a;
+	border-color: #1fab5a;
+	border-radius: 3px;
+}
+
+.iphone2{
+	width: 960px;
+	height: 1250px;
+}
+
+#iphone2{
+	width: 470px;
+	height: 980px;
+	margin-top: 135px;
+	margin-left: 240px;
+}
+
+/* ПИШЕМО СТИЛІ ДО M O B I L E D E S C R I P T I O N */
+
+/* ПИШЕМО СТИЛІ ДО O U R C L I E N T S */
+
+.ourclients{
+	width: 1920px; 
+	height: 640px;
+	background-color: white;
+	display: inline-block;
+}
+
+#ourclients{
+	font-family: gotham; 
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 60px;
+	color: #444e5d;
+}
+
+#voyez{
+	font-family: gotham; 
+	font-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+	color: #606e80;
+}
+
+.ourclients img{
+	margin-top: 180px;
+	margin-left: 245px;
+}
+
+/* ПИШЕМО СТИЛІ ДО O U R C L I E N T S */
+
+/* ПИШЕМО СТИЛІ ДО P R I C I N G T A B L E */
+
+.pricingtable{
+	width: 1920px;
+	height: 1200px;
+	background-color: #f1f1f1;
+	display: inline-block;
+}
+
+#pricingtable{
+	font-size: 45px;
+	font-family: gotham;
+	font-weight: bold;
+	margin-top: 160px;
+	text-align: center;
+	color: #444e5d;
+}
+
+#choosefrom{
+	margin-top: 15px;
+	text-align: center;
+	font-size: 30px;
+	font-family: gotham;
+	color: #606e80;
+}
+
+.small{
+	width: 406px;
+	height: 626px;
+	border: 2px solid #a1a1a1;
+	float: left;
+	margin-top: 150px;
+	margin-left: 270px;
+}
+
+.medium{
+	width: 406px;
+	height: 626px;
+	float: left;
+	border: 2px solid #a1a1a1;
+	margin-top: 150px;
+	margin-left: 70px;
+}
+
+.large{
+	width: 406px; 
+	height: 626px;
+	float: left;
+	border: 2px solid #a1a1a1;
+	margin-top: 150px;
+	margin-left: 70px;
+}
+
+.titleword{
+	font-size: 45px;
+	font-family: gotham;
+	font-weight: bold;
+	color: #5a677b;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.monthmoney{
+	font-size: 30px;
+	font-family: gotham;
+	color: #999999;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.pricingtable hr{
+	margin-top: 10px;
+	margin-bottom: 55px;
+}
+
+.tenhundred{
+	font-size: 30px;
+	font-family: gotham;
+	text-align: center;
+	color: #999999;
+	margin-top: 35px;
+}
+
+.unlimited{
+	font-size: 30px;
+	font-family: gotham;
+	color: #999999;
+	margin-top: 35px;
+	margin-left: 115px;
+	margin-right: 10px;
+	font-weight: bold;
+	float: left;
+}
+
+.datausers{
+	font-size: 30px;
+	font-family: gotham;
+	color: #999999;
+	margin-top: 35px;
+}
+
+.signup{
+	width: 300px;
+	height: 90px;
+	font-size: 30px;
+	font-family: gotham;
+	font-weight: bold;
+	color: white;
+	background-color: #1fab5a;
+	border-color: #1fab5a;
+	border-radius: 3px;
+	margin-top: 65px;
+	margin-left: 50px;
+}
+
+/* ПИШЕМО СТИЛІ ДО P R I C I N G T A B L E */
+
+/* ПИШЕМО СТИЛІ ДО W O R K S F O L I O */
+
+.worksfolio{
+	width: 1920px;
+	height: 1585px;
+	background-color: #fbf8f8;
+	display: inline-block;
+	border-bottom: 190px solid #f1f1f1;
+}
+
+#ourworks{
+	font-size: 45px;
+	font-family: gotham;
+	font-weight: bold;
+	color: #444e5d;
+	text-align: center;
+	margin-top: 65px;
+}
+#next{
+	float: right;
+	margin-right: 320px;
+}
+
+#prev{
+	float: right;
+	margin-right: 30px;
+}
+
+.worksfolio hr{
+	margin-top: 50px;
+	margin-left: 319px;
+	margin-right: 319px;
+}
+
+.photo1{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo1.png");
+	background-size: 482px 390px;
+	float: left;
+	display: inline-block;
+	margin-top: 150px;
+	margin-left: 240px;
+}
+
+.photo2{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo2.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	float: left;
+	margin-top: 150px;
+	margin-left: 15px;
+}
+
+.photo3{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo3.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	margin-top: 150px;
+	margin-left: 15px;
+}
+
+.photo4{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo4.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	float: left;
+	margin-left: 240px;
+	margin-top: 10px;
+}
+
+.photo5{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo5.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	float: left;
+	margin-left: 15px;
+	margin-top: 10px;
+	
+}
+
+.photo6{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo6.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.photo7{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo7.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	float: left;
+	margin-left: 240px;
+	margin-top: 10px;
+}
+
+.photo8{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo8.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	float: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.photo9{
+	width: 482px;
+	height: 390px;
+	background-image: url("../img/photo9.png");
+	background-size: 482px 390px;
+	display: inline-block;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.photo5 img{
+	position: relative;
+}
+
+/* ПИШЕМО СТИЛІ ДО W O R K S F O L I O */
+
+/* ПИШЕМО СТИЛІ ДО T W I T T E R F E E D */
+
+.twitterfeed{
+	width: 1920px;
+	height: 810px;
+	background-image: url("../img/bgtwitter.png");
+	background-size: 1920px 810px;
+}
+
+.twitter{
+	width: 1920px;
+	height: 810px;
+	background-image: url("../img/bgtwitter2.png");
+	background-size: 1920px 810px;
+	opacity: 0.5;
+	position: relative;
+}
+
+.twittertext{
+	width: 1920px;
+	height: 810px;
+	opacity: 1;
+	position: absolute;
+	margin-top: -810px;
+}
+
+#twitterbird{
+	margin: auto;
+	display: block;
+	margin-top: 155px;
+}
+
+#twitterdiv{
+	margin: auto;
+	display: block;
+	margin-top: 25px;
+	margin-left: 750px;
+	margin-right: 25px;
+	float: left;
+}
+
+#ontwitter{
+	font-size: 26px;
+	font-family: gotham;
+	color: white;
+	margin-top: 48px;
+}
+
+#designerknows{
+	margin-top: 60px;
+	font-size: 35px;
+	font-family: gotham;
+	color: white;
+	margin-left: 350px;
+	margin-right: 350px;
+	text-align: center;
+}
+
+#antoine{
+	margin-top: 65px;
+	text-align: center;
+	font-size: 26px;
+	font-family: gotham;
+	margin-left: 800px;
+	margin-right: 800px;
+	color: white;
+}
+
+/* ПИШЕМО СТИЛІ ДО T W I T T E R F E E D */
+
+/* ПИШЕМО СТИЛІ ДО F O O T E R */
+
+.footer{
+	width: 1920px;
+	height: 665px;
+	background-image: url("../img/bgfooter.png");
+	background-size: 1920px 665px;
+	display: inline-block;
+}
+
+.footerinformation{
+	width: 1920px;
+	height: 665px;
+	background-color: rgba(46, 61, 77, 0.91);
+	background-size: 1920px 665px;
+	position: relative;
+	display: inline-block;
+}
+
+#whatyouthink{
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	font-family: gotham;
+	margin-top: 140px;
+}
+
+#gooddesignfooter{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-family: gotham;
+	margin-top: 50px;
+}
+
+#contactme{
+	display: block;
+	margin: auto;
+	font-size: 30px;
+	color: white;
+	font-family: gotham;
+	font-weight: bold;
+	width: 300px;
+	height: 90px;
+	margin-top: 80px;
+	border: solid #ff4b5a;
+	border-radius: 5px;
+	background-color: #ff4b5a;
+}
+
+/* ПИШЕМО СТИЛІ ДО F O O T E R */
+
+/* ПИШЕМО СТИЛІ ДО H I D E M E */
+
+.hideme{
+	width: 1920px;
+	height: 170px;
+	background-color: #2a3039;
+}
+
+#facebookicon{
+	float: left;
+	margin-left: 230px;
+	margin-top: 60px;
+}
+
+#twittericon{
+	float: left;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+#dribbbleicon{
+	float: left;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+#dribbblecopyicon{
+	float: left;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+#ayoubelred{
+	float: left;
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	font-family: gotham;
+	margin-top: 70px;
+}
+
+#copyrighticon{
+	float: left;
+	margin-left: 690px;
+	margin-top: 50px;
+}
+
+#ayoubelered2014{
+	float: left;
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	font-family: gotham;
+	margin-top: 55px;
+}
+
+/* ПИШЕМО СТИЛІ ДО H I D E M E */
+
+
